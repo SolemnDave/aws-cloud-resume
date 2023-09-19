@@ -312,7 +312,7 @@ h1.major:after {
 	background-image: -webkit-linear-gradient(to right, #000000, #000000);
 	background-image: -ms-linear-gradient(to right, #000000, #000000);
 	/* DR - Line below project page */
-	background-image: linear-gradient(to right, #C0C0C0, #C0C0C0);
+	background-image: linear-gradient(to right, #ffffff, #ffffff);
 	-moz-transition: max-width 0.2s ease;
 	-webkit-transition: max-width 0.2s ease;
 	-ms-transition: max-width 0.2s ease;
@@ -3355,7 +3355,7 @@ table.alt tfoot {
 
 /* DR */
 .wrapper.alt {
-	background-color: #000000;
+	background-color: #0b2442;
 }
 
 .wrapper.style1 {
